@@ -1,8 +1,3 @@
-Here is the complete, single text block containing **everything** (Project Description + Local Setup + Deployment Instructions).
-
-You can copy this entire block and paste it directly into your `README.md` file.
-
-
 # 🛍️ ShopGenie: AI Shopping Assistant
 
 **ShopGenie** is an intelligent E-commerce recommendation system powered by **RAG (Retrieval-Augmented Generation)**. It uses vector search to understand user queries and retrieves the best-matching products from an inventory dataset, then uses a Large Language Model (DeepSeek) to provide personalized explanations.
